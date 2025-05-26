@@ -42,7 +42,7 @@ Dataset dibuat melalui proses labeling menggunakan **Roboflow**, yang terdiri da
 | Test      | 59             | 1.259         |
 | **Total** | 654            | 13.915        |
 
-Sumber data berasal dari pengambilan gambar area parkir secara manual yang kemudian dilabeli secara visual menggunakan bounding box untuk tiap slot parkir.
+Sumber data berasal dari roboflow
 
 ---
 
