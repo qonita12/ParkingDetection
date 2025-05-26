@@ -52,8 +52,7 @@ Sumber data berasal dari pengambilan gambar area parkir secara manual yang kemud
 |---------------|--------------------------------------------------|
 | Python        | Bahasa pemrograman utama                         |
 | YOLOv5        | Model deteksi objek ringan dan akurat            |
-| Roboflow      | Tool labeling data dan manajemen dataset         |
-| PyTorch       | Framework deep learning                          |
+| Roboflow      | Manajemen dataset         |
 | Google Colab  | Lingkungan pelatihan model (training pipeline)   |
 | OpenCV        | Prosesing gambar                                 |
 
